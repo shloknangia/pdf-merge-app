@@ -1,0 +1,38 @@
+{
+  "name": "merge-split-pdf-react-app",
+  "version": "1.0.0",
+  "description": "Merge & Split PDF React Application",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davikawasaki/merge-split-pdf-react-app.git"
+  },
+  "author": "Davi Kawasaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davikawasaki/merge-split-pdf-react-app/issues"
+  },
+  "homepage": "https://davikawasaki.github.io/pdfoffline/",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "pdf-lib": "^0.6.1",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-drag-listview": "^0.1.8",
+    "react-files": "^2.4.8",
+    "react-scripts": "latest",
+    "save-file": "^2.3.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
